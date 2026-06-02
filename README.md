@@ -18,7 +18,7 @@ localized services, and data analysis pipelines.
 ---
 
 ## Repository Architecture
-
+```
 capitals/
 ├── data/
 │   ├── capitals.json         # Master dataset in JSON format
